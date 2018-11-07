@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: iface.extend.test
+---
+testFramework: junit
+sourceLanguage: java
